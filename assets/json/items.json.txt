@@ -1,0 +1,329 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Dietetic Food",
+            "location": "Via Frassineto,25 10139 Torino",
+            "latitude": 45.068993, 
+            "longitude": 7.641114,
+            "telefono": "011 3850039",
+            "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>10:00- 18:00</dd><dt>Venerdì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>10:00- 18:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "gallery":
+                [
+                    "assets/img/locali/adrenalina/punto-ritiro-senza-glutine-torino-tazzoli.jpg" 
+                ]
+        },
+        {
+            "id": 2,
+            "title": "Il Mondo Senza Glutine",
+            "location": "Via Varazze,5 10126 Torino",
+            "latitude": 45.038239,
+            "longitude":  7.670195,
+            "telefono": "011 7920695",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Martedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Mercoledì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Giovedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Venerdì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "gallery":
+                [
+                    "assets/img/locali/fattoria/negozio-senza-glutine-torino-san-salvario.jpg"
+                ]
+        },
+        {
+            "id": 3,
+            "title": "Farmacia Santa Elisabetta",
+            "location": "Corso Grosseto, 66, 10147 Torino",
+            "latitude": 45.104664, 
+            "longitude": 7.683090,
+             "telefono": "011 569 0427",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Martedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Mercoledì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Giovedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Venerdì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+              "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/croce.png",
+            "gallery":
+                [
+                    "assets/img/locali/maison/punto-ritiro-senza-glutine-torino-centro-garibaldi.jpg"
+                ]
+        },
+        {
+            "id": 4,
+            "title": "Bio Sassi",
+            "location": "Via Metastasio 4/F 10132 Torino",
+            "latitude": 45.078443, 
+            "longitude":  7.731721,
+            "telefono": "011 890 9395",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>15:30 - 19:30</dd><dt>Martedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Venerdì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:30 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "gallery":
+                [
+                    "assets/img/locali/biosassi/logo-biosassi-senza-glutine-torino.jpg",
+                    "biosassi.html"
+                ]
+        },
+        {
+            "id": 5,
+            "title": "Naturalia",
+            "location": "Via Cadorna 17/C 10136 Torino",
+            "latitude": 45.045333,
+            "longitude": 7.648039,
+            "telefono": "011 3299193",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Martedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Mercoledì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Giovedì</dt><dd>8:45 - 19:30</dd><dt>Venerdì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Sabato</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "gallery":
+                [
+                    "assets/img/locali/naturalia/negozio-senza-glutine-torino-santa-rita.jpg"
+                ]
+        },
+          {
+            "id": 6,
+            "title": "Sapori del Sole",
+            "location": "Via Bologna, 74/G 10152 Torino",
+            "latitude": 45.082665, 
+            "longitude":  7.695968,
+            "telefono": "011 6984910",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Martedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Mercoledì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Giovedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Venerdì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Sabato</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Domenica</dt><dd>11:00-12:30 / 16:00-19:30</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "gallery":
+                [
+                    "assets/img/locali/supercibarius/negozio-torino-senza-glutine.jpg"
+                ]
+        },
+          {
+            "id": 7,
+            "title": "Sweet Lab",
+            "location": "Via Principe Amedeo 39 10123 Torino",
+            "latitude": 45.066462, 
+            "longitude": 7.691592,
+            "telefono": "011 19457907",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>7:30 - 19:30</dd><dt>Mercoledì</dt><dd>7:30 - 19:30</dd><dt>Giovedì</dt><dd>7:30 - 19:30</dd><dt>Venerdì</dt><dd>7:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 19:30</dd><dt>Domenica</dt><dd>9:00 - 19:30</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/muffin.png",
+            "gallery":
+                [
+                    "assets/img/locali/sweetlab/punto-ritiro-dolci-senza-glutine-torino-centro.jpg"
+                ]
+        },
+          {
+            "id": 8,
+            "title": "Fornoo",
+            "location": "Piazza Partigiani 38, Collegno",
+            "latitude": 45.092710, 
+            "longitude": 7.571683,
+             "telefono": "329 6434188",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>7:30 - 19:30</dd><dt>Mercoledì</dt><dd>7:30 - 19:30</dd><dt>Giovedì</dt><dd>7:30 - 19:30</dd><dt>Venerdì</dt><dd>7:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 19:30</dd><dt>Domenica</dt><dd>9:00 - 19:30</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/muffin.png",
+            "gallery":
+                [
+                    "assets/img/locali/zeroglu/laboratorio-senza-glutine-collegno-torino.jpg"
+                ]
+        },
+         {
+            "id": 9,
+            "title": "Bla...Bla...Bar",
+            "location": "Via Gramsci, 53 15121 Alessandria",
+            "latitude": 44.911320,
+            "longitude":  8.609564,
+            "telefono": "0131 484123",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>06:30-18:00</dd><dt>Martedì</dt><dd>06:30-18:00</dd><dt>Mercoledì</dt><dd>06:30-18:00</dd><dt>Giovedì</dt><dd>06:30-18:00</dd><dt>Venerdì</dt><dd>06:30-18:00</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/coffe.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 10,
+            "title": "La rosa e la spiga",
+            "location": "Via Regio Parco, 25 10036 Settimo Torinese",
+            "latitude": 45.132119, 
+            "longitude":  7.757847,
+            "telefono": "011 19910015",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>06:00-19:00</dd><dt>Martedì</dt><dd>06:00-19:00</dd><dt>Mercoledì</dt><dd>06:00-19:00</dd><dt>Giovedì</dt><dd>06:00-19:00</dd><dt>Venerdì</dt><dd>06:00-19:00</dd><dt>Sabato</dt><dd>06:00-19:00</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/coffe.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 11,
+            "title": "Farmacia Cesano",
+            "location": "Via Bologna, 250, 10154 Torino",
+            "latitude": 45.092023, 
+            "longitude":  7.713751,
+            "telefono": "011 19503790",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>09:00-20:00</dd><dt>Martedì</dt><dd>09:00-20:00</dd><dt>Mercoledì</dt><dd>09:00-20:00</dd><dt>Giovedì</dt><dd>09:00-20:00</dd><dt>Venerdì</dt><dd>09:00-20:00</dd><dt>Sabato</dt><dd>09:00-20:00</dd><dt>Domenica</dt><dd>09:00-20:00</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/croce.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 12,
+            "title": "Celiachia Food",
+            "location": "Via Spanna, 3/8 10095 Grugliasco",
+            "latitude": 45.063186, 
+            "longitude":  7.576973,
+            "telefono": "011 7808407",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso / 16.00-19.30</dd><dt>Martedì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Mercoledì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Giovedì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Venerdì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Sabato</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 13,
+            "title": "Naturalmente sani e belli",
+            "location": "Viale Papa Giovanni XXIII 7/A 10092 Borgaretto, To",
+            "latitude": 45.006469, 
+            "longitude":  7.601079,
+            "telefono": "011 3589252",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>15:30-19:30</dd><dt>Martedì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Giovedì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Venerdì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Sabato</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 14,
+            "title": "Farmacia San Salvario",
+            "location": "Via Madama Cristina, 14, 10125 Torino",
+            "latitude": 45.058286, 
+            "longitude":  7.683139,
+            "telefono": "011 6690623",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:30-19:30</dd><dt>Martedì</dt><dd>08:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-19:30</dd><dt>Giovedì</dt><dd>08:30-19:30</dd><dt>Venerdì</dt><dd>08:30-19:30</dd><dt>Sabato</dt><dd>08:30-19:30</dd><dt>Domenica</dt><dd>08:30-19:30</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/croce.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 15,
+            "title": "Angolo Acuto",
+            "location": "Via Andrea Mensa, 24, 10078 Venaria, TO",
+            "latitude": 45.134661, 
+            "longitude":  7.627874,
+            "telefono": "011 19925050",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>09:30–13 / 15:30–19</dd><dt>Mercoledì</dt><dd>09:30–13 / 15:30–19</dd><dt>Giovedì</dt><dd>09:30–13 / 15:30–19</dd><dt>Venerdì</dt><dd>09:30–13 / 15:30–19</dd><dt>Sabato</dt><dd>09:30–13 / 15:30–19</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/coffe.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 16,
+            "title": "Farmacia Ceriana",
+            "location": "Strada Carignano, 13, 10024 Moncalieri TO",
+            "latitude": 45.000294, 
+            "longitude":  7.671942,
+            "telefono": "011 642143",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Martedì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Mercoledì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Giovedì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Venerdì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Sabato</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/croce.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 17,
+            "title": "Farmacia Santa Marta",
+            "location": "Via Nicola Fabrizi, 102, 10145 Torino",
+            "latitude": 45.081206, 
+            "longitude":  7.643281,
+            "telefono": "011 740708",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:00-19:30</dd><dt>Martedì</dt><dd>08:00-19:30</dd><dt>Mercoledì</dt><dd>08:00-19:30</dd><dt>Giovedì</dt><dd>08:00-19:30</dd><dt>Venerdì</dt><dd>08:00-19:30</dd><dt>Sabato</dt><dd>08:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+             "type":"",
+            "type_icon": "assets/icons/store/apparel/croce.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        },
+         {
+            "id": 18,
+            "title": "Farmacia dell'Assunta",
+            "location": "Via Circonvallazione, 34, 10072 Caselle Torinese TO",
+            "latitude": 45.179975, 
+            "longitude":  7.645318,
+            "telefono": "011 9914110",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Martedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Giovedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Venerdì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Sabato</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "SI",
+            "buoni": "SI",
+            "consegna": "giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/croce.png",
+            "gallery":
+                [
+                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                ]
+        }
+     ]
+}

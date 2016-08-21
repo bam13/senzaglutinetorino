@@ -37,10 +37,7 @@
             <div class="inner">
                 <div class="footer-bottom">
                     <div class="container">
-                        <h4 class="left">Copyright © 2015 <a href="http://www.fornoo.com">FORNOO.COM. Prodotti da forno con farine alternative, naturalmente senza glutine a Torino </a>per celiaci ed intolleranti al glutine. Anche senza lattosio, uova e per vegetariani.</h4>
-                            <span class="right">
-                                <a href="#page-top" class="to-top roll"><i class="fa fa-angle-up"></i></a>
-                            </span>
+                        <h4 class="left">Copyright © 2015 <a href="http://www.fornoo.com">Fornoo, il pane fresco senza glutine, scorri sulla mappa per trovare il punto più vicino</h4>
                     </div>
                 </div>
                 <!--/.footer-bottom-->
@@ -88,13 +85,15 @@
     $('.call-action').on('click', function(){
         $.get('assets/external/come-acquistare.html', function(html){
             document.getElementById('info-try').innerHTML = html;
+
+            $('.map-canvas').addClass('shownav');
+
+            $('.black-filter').on('click', function(){
+                $('.map-canvas').removeClass('shownav');
+            });
         });
                 
-                $('.map-canvas').addClass('shownav');
-
-                $('.black-filter').on('click', function(){
-                     $('.map-canvas').removeClass('shownav');
-                });
+                
     });
    
 });

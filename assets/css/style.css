@@ -6049,15 +6049,14 @@ body.navigation-top-header .header .wrapper .toggle-navigation {
   border-bottom: 2px solid #ff513f;
   border-top: 1px solid rgba(0, 0, 0, 0.08);
   margin-top: 20px;
-  padding: 30px;
 }
 #page-footer .inner .footer-bottom .left {
   float: left;
-  line-height: 30px;
+  width: 100%;
+  text-align: center;
+  line-height: 15px;
 }
-#page-footer .inner .footer-bottom .right {
-  float: right;
-}
+
 #page-footer .inner .footer-bottom .to-top {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
@@ -7109,20 +7108,20 @@ will-change: transform;
   color: white;
   background: rgba(0,0,0, 0.4);
   display: none;
-   -webkit-transition: transform 800ms ease;
--moz-transition: transform 800ms ease;
--o-transition: transform 800ms ease;
-transition: transform 800ms ease;
+   -webkit-transition: transform 500ms ease;
+-moz-transition: transform 500ms ease;
+-o-transition: transform 500ms ease;
+transition: transform 500ms ease;
 transform: translate3d(10px, 0px, 0px);
 }
 
 .map-canvas .map {
 left:0;
 right: 0;
--webkit-transition: transform 800ms ease;
--moz-transition: transform 800ms ease;
--o-transition: transform 800ms ease;
-transition: transform 800ms ease;
+-webkit-transition: transform 500ms ease;
+-moz-transition: transform 500ms ease;
+-o-transition: transform 500ms ease;
+transition: transform 500ms ease;
 transform: translate3d(0px, 0px, 0px);
 z-index: 1;
 }
@@ -7136,6 +7135,7 @@ z-index: 1;
 .preview-gallery {
   border-bottom: 50px solid #ff513f;
   max-height:300px; 
+  height: 300px;
   overflow: hidden;
 }
 
@@ -7154,17 +7154,17 @@ z-index: 1;
 transition: opacity 800ms ease, right 800ms ease;
 }
 
-.shownav .black {
+.shownav .black-filter   {
   z-index: 2;
   opacity: 1;
   
 }
 
 .items-list {
-   -webkit-transition: transform 800ms ease;
--moz-transition: transform 800ms ease;
--o-transition: transform 800ms ease;
-transition: transform 800ms ease;
+   -webkit-transition: transform 500ms ease;
+-moz-transition: transform 500ms ease;
+-o-transition: transform 500ms ease;
+transition: transform 500ms ease;
 }
 
 .shownav {overflow: hidden;}
@@ -7196,6 +7196,7 @@ transition: transform 800ms ease;
   overflow-y:scroll;
   -webkit-overflow-scrolling: touch;
   z-index: 3;
+  padding-bottom: 30px;
 }
 
 #info-try::-webkit-scrollbar {
@@ -7205,6 +7206,15 @@ transition: transform 800ms ease;
 .block {padding:20px 0;}
 
 .items-list {z-index: 1; position: relative;}
+
+#page-footer {
+height: 30px;
+position: fixed;
+bottom:0;
+left: 0;
+right: 0;
+z-index: 4;
+}
 
 @media (max-width: 1024px) {
 

@@ -53,6 +53,7 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
         var activeMarker = false;
         var lastClicked = false;
 
+
         if ($(window).width() < 1026) {
             map.setZoom(11);
           };
@@ -89,7 +90,8 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
                 map: map,
                 draggable: false,
                 content: markerContent,
-                flat: true
+                flat: true,
+                heading: json.data[i].heading
             });
 
             newMarkers.push(marker);
@@ -125,6 +127,17 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
           google.maps.event.addListener(marker, 'click', (function(marker, i, infoboxContent) {
              return function() {
                 document.getElementById('info-try').innerHTML = infoboxContent.innerHTML;
+                var panorama = new google.maps.StreetViewPanorama(
+                document.getElementById('pano'), {
+                  position: marker.position,
+                  pov: {
+                    heading: marker.heading,
+                    pitch: 0
+                  },
+                  motionTracking: false
+                });
+                panorama.setZoom(3);
+               map.setStreetView(panorama);
 
                 $('.map-canvas').addClass('shownav');
 

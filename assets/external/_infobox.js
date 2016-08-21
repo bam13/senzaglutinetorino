@@ -31,8 +31,8 @@
         '<div class="inner">' +
             '<div class="image">' +
                 '<div class="item-specific">' + drawItemSpecific(category, json, i) + '</div>' +
-                '<div class="preview-gallery">' +
-                '<img src="' + gallery +  '">' +
+                '<div id="pano" class="preview-gallery">' +
+                //'<img src="' + gallery +  '">' +
                 '</div>' +
                     '<div class="meta">' +
                         '<h2>' + title +  '</h2>' +

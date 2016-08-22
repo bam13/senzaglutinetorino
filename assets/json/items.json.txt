@@ -13,7 +13,7 @@
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/adrenalina/punto-ritiro-senza-glutine-torino-tazzoli.jpg" 
@@ -32,7 +32,7 @@
             "buoni": "SI",
             "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/fattoria/negozio-senza-glutine-torino-san-salvario.jpg"
@@ -51,7 +51,7 @@
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/maison/punto-ritiro-senza-glutine-torino-centro-garibaldi.jpg"
@@ -70,7 +70,7 @@
             "buoni": "NO",
             "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/biosassi/logo-biosassi-senza-glutine-torino.jpg",
@@ -90,7 +90,7 @@
             "buoni": "NO",
             "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/naturalia/negozio-senza-glutine-torino-santa-rita.jpg"
@@ -109,7 +109,7 @@
             "buoni": "NO",
             "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/supercibarius/negozio-torino-senza-glutine.jpg"
@@ -128,7 +128,7 @@
             "buoni": "NO",
             "consegna": "Su prenotazione",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/sweetlab/punto-ritiro-dolci-senza-glutine-torino-centro.jpg"
@@ -147,7 +147,7 @@
             "buoni": "NO",
             "consegna": "MA - GI - VE - SA",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/muffin-1.png",
+            "type_icon": "assets/icons/store/apparel/fornoo-senza-glutine-orange.png",
             "gallery":
                 [
                     "assets/img/locali/zeroglu/laboratorio-senza-glutine-collegno-torino.jpg"
@@ -166,7 +166,7 @@
             "buoni": "NO",
             "consegna": "Su prenotazione",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -185,7 +185,7 @@
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -204,7 +204,7 @@
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -223,7 +223,7 @@
             "buoni": "SI",
             "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -242,7 +242,7 @@
             "buoni": "SI",
             "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -252,16 +252,16 @@
             "id": 14,
             "title": "Farmacia San Salvario",
             "location": "Via Madama Cristina, 14 <br>10125 Torino</br>",
-            "latitude": 45.058286, 
-            "longitude":  7.683139,
-            "heading": 240,
+            "latitude": 45.058285865, 
+            "longitude":  7.683310453,
+            "heading": 270,
             "telefono": "011 6690623",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:30-19:30</dd><dt>Martedì</dt><dd>08:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-19:30</dd><dt>Giovedì</dt><dd>08:30-19:30</dd><dt>Venerdì</dt><dd>08:30-19:30</dd><dt>Sabato</dt><dd>08:30-19:30</dd><dt>Domenica</dt><dd>08:30-19:30</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "SI",
             "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -280,7 +280,7 @@
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -299,7 +299,7 @@
             "buoni": "SI",
             "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -318,7 +318,7 @@
             "buoni": "SI",
             "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -337,7 +337,7 @@
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
             "type":"",
-            "type_icon": "assets/icons/store/apparel/croce.png",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"

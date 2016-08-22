@@ -7,7 +7,7 @@ var mapStyles = [ {"featureType":"road","elementType":"labels","stylers":[{"visi
 function setMapHeight() { 
     var $body = $('body');
     if( $body.hasClass('map-fullscreen') ) {
-        if( $(window).width() > 768 ) {
+        if( $(window).width() > 767 ) {
 
             $('.map-canvas').height( $(window).height() /*- $('#page-footer').height() */);
             $('.map-canvas #map').height( $(window).height() - $('#page-footer').height() );
@@ -45,7 +45,9 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
             zoomControlOptions: {
                 style: google.maps.ZoomControlStyle.LARGE,
                 position: google.maps.ControlPosition.LEFT_TOP
-            }
+            },
+            clickableIcons: false,
+            streetViewControl: false
         };
         
  
@@ -263,6 +265,7 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
 
 
             // Check if images are cached, so will not be loaded again
+
 
             $.each(json.data, function(a) {
                 if( map.getBounds().contains( new google.maps.LatLng( json.data[a].latitude, json.data[a].longitude ) ) ) {

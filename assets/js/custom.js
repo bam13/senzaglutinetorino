@@ -4,47 +4,37 @@
 
 $(document).ready(function(){
 
-    
+    $.get('assets/external/fornoo-il-fresco-senza-glutine.html', function(html){
+        var $window = $(window),
+        $info = $('#info-try');
 
-    var $window = $(window),
-    $info = $('#info-try');
-
-     if ($window.width() > 1026) {      
-        
-        $.get('assets/external/come-acquistare.html', function(html){
+         if ($window.width() > 767) {      
+            
             document.getElementById('info-try').innerHTML = html;
-       
-        })
-
-        $('.black-filter').on('click', function(){
-            $('.map-canvas').removeClass('shownav');
-            $.get('assets/external/come-acquistare.html', function(html){
-            document.getElementById('info-try').innerHTML = html;
+           
+            $('.black-filter').on('click', function(){
+                $('.map-canvas').removeClass('shownav');
+                document.getElementById('info-try').innerHTML = html;
             });
-        });
 
-     };
- 
+         };
+     
+        function resize() {
+           
+            setMapHeight();
 
-
-    function resize() {
-       
-        setMapHeight();
-
-        if ($window.width() < 1026) {
-            return $info.addClass('info-side');
+            if ($window.width() > 767) {
+                return $info.removeClass('info-side');
+            }
+            
+            $info.addClass('info-side');
         }
-        
-        $info.removeClass('info-side');
-    }
 
-    $window
-        .resize(resize)
-        .trigger('resize');
+        $window
+            .resize(resize)
+            .trigger('resize');
 
-    $('.call-action').on('click', function(){
-
-        $.get('assets/external/come-acquistare.html', function(html){
+        $('.call-action').on('click', function(){
             document.getElementById('info-try').innerHTML = html;
 
              $('#info-try').scrollTop(0);
@@ -53,12 +43,9 @@ $(document).ready(function(){
 
             $('.black-filter').on('click', function(){
                 $('.map-canvas').removeClass('shownav');
-            });
+            });                   
         });
-                
-                
     });
-   
 });
 
    

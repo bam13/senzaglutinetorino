@@ -3,12 +3,12 @@
         {
             "id": 1,
             "title": "Dietetic Food",
-            "location": "Via Frassineto,25 <br>10139 Torino</br>",
-            "latitude": 45.0688683,
-            "longitude": 7.6407575,
-            "heading": 40,
+            "location": "Via Frassineto 36 <br>10139 Torino</br>",
+            "latitude": 45.0688702,
+            "longitude": 7.640890,
+            "heading": 355,
             "telefono": "011 3850039",
-            "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>10:00- 18:00</dd><dt>Venerdì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>10:00- 18:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>10:00- 18:00</dd><dt>Venerdì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>10:00- 18:00</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
@@ -16,18 +16,18 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/adrenalina/punto-ritiro-senza-glutine-torino-tazzoli.jpg" 
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
         {
             "id": 2,
             "title": "Il Mondo Senza Glutine",
-            "location": "Via Varazze,5 <br>10126 Torino</br>",
+            "location": "Via Varazze 5 <br>10126 Torino</br>",
             "latitude": 45.03800233,
             "longitude":  7.6700452323,
             "heading": 20,
             "telefono": "011 7920695",
-             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Martedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Mercoledì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Giovedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Venerdì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Martedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Mercoledì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Giovedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Venerdì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "SI",
             "consegna": "Giovedì e Sabato",
@@ -35,18 +35,18 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/fattoria/negozio-senza-glutine-torino-san-salvario.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
         {
             "id": 3,
             "title": "Farmacia Santa Elisabetta",
-            "location": "Corso Grosseto, 66 <br>10147 Torino</br>",
+            "location": "Corso Grosseto 66 <br>10147 Torino</br>",
             "latitude": 45.104664, 
             "longitude": 7.683090,
             "heading": 45,
              "telefono": "011 569 0427",
-             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Martedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Mercoledì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Giovedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Venerdì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Martedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Mercoledì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Giovedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Venerdì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
               "ritiro": "SI, 377 9790627",
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
@@ -54,7 +54,7 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/maison/punto-ritiro-senza-glutine-torino-centro-garibaldi.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
         {
@@ -65,16 +65,15 @@
             "longitude":  7.73217088,
             "heading": 260,
             "telefono": "011 890 9395",
-             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>15:30 - 19:30</dd><dt>Martedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Venerdì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:30 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>15:30 - 19:30</dd><dt>Martedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Venerdì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:30 - 19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "NO",
-            "consegna": "Martedì e Venerdì",
+            "consegna": "Venerdì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/biosassi/logo-biosassi-senza-glutine-torino.jpg",
-                    "biosassi.html"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
         {
@@ -83,23 +82,23 @@
             "location": "Via Cadorna 17/C <br>10136 Torino</br>",
             "latitude": 45.045100486,
             "longitude": 7.647913239,
-            "heading": 140,
+            "heading": 130,
             "telefono": "011 3299193",
-             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Martedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Mercoledì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Giovedì</dt><dd>8:45 - 19:30</dd><dt>Venerdì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Sabato</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Martedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Mercoledì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Giovedì</dt><dd>8:45 - 19:30</dd><dt>Venerdì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Sabato</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "NO",
-            "consegna": "Giovedì e Sabato",
+            "consegna": "Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/naturalia/negozio-senza-glutine-torino-santa-rita.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
           {
             "id": 6,
             "title": "Sapori del Sole",
-            "location": "Via Bologna, 74/G <br>10152 Torino</br>",
+            "location": "Via Bologna 74/G <br>10152 Torino</br>",
             "latitude": 45.08262743, 
             "longitude":  7.69587336,
             "heading": 160,
@@ -107,12 +106,12 @@
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Martedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Mercoledì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Giovedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Venerdì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Sabato</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Domenica</dt><dd>11:00-12:30 / 16:00-19:30</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "NO",
-            "consegna": "Martedì e Venerdì",
+            "consegna": "Venerdì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/supercibarius/negozio-torino-senza-glutine.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
           {
@@ -131,18 +130,18 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/sweetlab/punto-ritiro-dolci-senza-glutine-torino-centro.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
           {
             "id": 8,
             "title": "Fornoo",
-            "location": "Viale Partigiani, 38 <br>10093 Collegno</br>",
+            "location": "Viale dei Partigiani 38 <br>10093 Collegno (TO)</br>",
             "latitude": 45.09271120713591, 
             "longitude": 7.571796391041289,
             "heading": 165,
              "telefono": "377 9790627",
-             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>7:30 - 19:30</dd><dt>Mercoledì</dt><dd>7:30 - 19:30</dd><dt>Giovedì</dt><dd>7:30 - 19:30</dd><dt>Venerdì</dt><dd>7:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 19:30</dd><dt>Domenica</dt><dd>9:00 - 19:30</dd></dl>",
+             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9:00 - 13:00</dd><dt>Mercoledì</dt><dd>chiuso</dd><dt>Giovedì</dt><dd>9:00 - 13:00</dd><dt>Venerdì</dt><dd>9:00 - 13:00</dd><dt>Sabato</dt><dd>9:00 - 13:00</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "NO",
             "consegna": "MA - GI - VE - SA",
@@ -150,13 +149,13 @@
             "type_icon": "assets/icons/store/apparel/fornoo-senza-glutine-orange.png",
             "gallery":
                 [
-                    "assets/img/locali/zeroglu/laboratorio-senza-glutine-collegno-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 9,
             "title": "Bla...Bla...Bar",
-            "location": "Via Gramsci, 53 <br>15121 Alessandria</br>",
+            "location": "Via Gramsci 53 <br>15121 Alessandria</br>",
             "latitude": 44.9111509676,
             "longitude":  8.60958997,
             "heading": 290,
@@ -169,13 +168,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 10,
             "title": "La rosa e la spiga",
-            "location": "Via Regio Parco, 25 <br>10036 Settimo Torinese</br>",
+            "location": "Via Regio Parco 25 <br>10036 Settimo Torinese (TO)</br>",
             "latitude": 45.13193035244539, 
             "longitude":  7.757830525765598,
             "heading": 140,
@@ -188,13 +187,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 11,
             "title": "Farmacia Cesano",
-            "location": "Via Bologna, 250 <br>10154 Torino</br>",
+            "location": "Via Bologna 250 <br>10154 Torino</br>",
             "latitude": 45.092023, 
             "longitude":  7.713751,
             "heading": 100,
@@ -207,13 +206,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 12,
             "title": "Celiachia Food",
-            "location": "Via Spanna, 3/8 <br>10095 Grugliasco</br>",
+            "location": "Via Spanna 3/8 <br>10095 Grugliasco (TO)</br>",
             "latitude": 45.0633782, 
             "longitude":  7.5769333,
             "heading": 280,
@@ -226,13 +225,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 13,
             "title": "Naturalmente sani e belli",
-            "location": "Viale Papa Giovanni XXIII 7/A <br>10092 Borgaretto, To</br>",
+            "location": "Viale Papa Giovanni XXIII 7/A <br>10092 Borgaretto (TO)</br>",
             "latitude": 45.006469, 
             "longitude":  7.601079,
             "heading": 180,
@@ -245,13 +244,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 14,
             "title": "Farmacia San Salvario",
-            "location": "Via Madama Cristina, 14 <br>10125 Torino</br>",
+            "location": "Via Madama Cristina 14 <br>10125 Torino</br>",
             "latitude": 45.058285865, 
             "longitude":  7.683310453,
             "heading": 270,
@@ -264,13 +263,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 15,
             "title": "Angolo Acuto",
-            "location": "Via Andrea Mensa, 24 <br>10078 Venaria, TO</br>",
+            "location": "Via Andrea Mensa 24 <br>10078 Venaria (TO)</br>",
             "latitude": 45.13437674518816,
             "longitude":  7.628520625274405,
             "heading": 34,
@@ -283,13 +282,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 16,
             "title": "Farmacia Ceriana",
-            "location": "Strada Carignano, 13 <br>10024 Moncalieri TO</br>",
+            "location": "Strada Carignano 13 <br>10024 Moncalieri (TO)</br>",
             "latitude": 45.000294, 
             "longitude":  7.671942,
             "heading": 90,
@@ -302,13 +301,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 17,
             "title": "Farmacia Santa Marta",
-            "location": "Via Nicola Fabrizi, 102 <br>10145 Torino</br>",
+            "location": "Via Nicola Fabrizi 102 <br>10145 Torino</br>",
             "latitude": 45.0811139, 
             "longitude":  7.6431072999,
             "heading": 15,
@@ -321,13 +320,13 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
+                    "assets/img/foto-negozio-segnaposto.png" 
                 ]
         },
          {
             "id": 18,
             "title": "Farmacia dell'Assunta",
-            "location": "Via Circonvallazione, 34 <br>10072 Caselle Torinese TO</br>",
+            "location": "Via Circonvallazione 34 <br>10072 Caselle Torinese (TO)</br>",
             "latitude": 45.179793443, 
             "longitude":  7.64523298,
             "heading": 30,
@@ -340,8 +339,8 @@
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
                 [
-                    "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
-                ]
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
         }
      ]
 }

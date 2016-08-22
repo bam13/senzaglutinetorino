@@ -269,20 +269,6 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
                     is_cached(json.data[a].gallery[0], a);
                 }
             });
-
-            // Call Rating function ----------------------------------------------------------------------------------------
-
-            rating('.results .item');
-
-            var $singleItem = $('.results .item');
-            $singleItem.hover(
-                function(){
-                    newMarkers[ $(this).attr('id') - 1 ].content.className = 'marker-active marker-loaded';
-                },
-                function() {
-                    newMarkers[ $(this).attr('id') - 1 ].content.className = 'marker-loaded';
-                }
-            );
         });
 
         redrawMap('google', map);

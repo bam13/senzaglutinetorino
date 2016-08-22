@@ -50,6 +50,8 @@
     
    $(document).ready(function(){
 
+    
+
     var $window = $(window),
     $info = $('#info-try');
 
@@ -87,10 +89,13 @@
         .trigger('resize');
 
     $('.call-action').on('click', function(){
-        $('.map-canvas').addClass('shownav');
 
         $.get('assets/external/come-acquistare.html', function(html){
             document.getElementById('info-try').innerHTML = html;
+
+             $('#info-try').scrollTop(0);
+
+            $('.map-canvas').addClass('shownav');
 
             $('.black-filter').on('click', function(){
                 $('.map-canvas').removeClass('shownav');

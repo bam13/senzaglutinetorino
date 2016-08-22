@@ -139,6 +139,8 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
                     });
                 panorama.setZoom(2);
 
+                 $('#info-try').scrollTop(0);
+
                 window.setTimeout(function() {
                     $('.map-canvas').addClass('shownav');
                 }, 100);

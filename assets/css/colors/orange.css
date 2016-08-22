@@ -5508,7 +5508,7 @@ input[type="text"]:focus, input[type="text"]:active, input[type="date"]:focus, i
 
 #page-footer {
   display: table-row;
-  background-color: #fff;
+  background-color: #f4f4f2;
   border-top: 2px solid #f4f4f2;
   height: 1px;
   margin-top: 30px;

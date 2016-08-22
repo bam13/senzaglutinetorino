@@ -9,11 +9,11 @@
             "heading": 40,
             "telefono": "011 3850039",
             "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>10:00- 18:00</dd><dt>Venerdì</dt><dd>9:30 - 12:30 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>10:00- 18:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
                 [
                     "assets/img/locali/adrenalina/punto-ritiro-senza-glutine-torino-tazzoli.jpg" 
@@ -28,11 +28,11 @@
             "heading": 20,
             "telefono": "011 7920695",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Martedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Mercoledì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Giovedì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Venerdì</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:00 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
                 [
                     "assets/img/locali/fattoria/negozio-senza-glutine-torino-san-salvario.jpg"
@@ -47,9 +47,9 @@
             "heading": 45,
              "telefono": "011 569 0427",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Martedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Mercoledì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Giovedì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Venerdì</dt><dd>8:45 - 12:45 / 15:00 - 19:00</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
-              "ritiro": "SI, CLICCA QUI!",
+              "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Martedì e Venerdì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
@@ -66,9 +66,9 @@
             "heading": 260,
             "telefono": "011 890 9395",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>15:30 - 19:30</dd><dt>Martedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Mercoledì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Giovedì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Venerdì</dt><dd>8:30 - 13:00 / 15:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 13:00 / 15:30 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
-            "buoni": "SI",
-            "consegna": "giovedì",
+            "ritiro": "SI, 377 9790627",
+            "buoni": "NO",
+            "consegna": "Martedì e Venerdì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/cesto.png",
             "gallery":
@@ -86,9 +86,9 @@
             "heading": 140,
             "telefono": "011 3299193",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Martedì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Mercoledì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Giovedì</dt><dd>8:45 - 19:30</dd><dt>Venerdì</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Sabato</dt><dd>8:45 - 13:00 / 15:15 - 19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
-            "buoni": "SI",
-            "consegna": "giovedì",
+            "ritiro": "SI, 377 9790627",
+            "buoni": "NO",
+            "consegna": "Giovedì e Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/cesto.png",
             "gallery":
@@ -105,9 +105,9 @@
             "heading": 160,
             "telefono": "011 6984910",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Martedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Mercoledì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Giovedì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Venerdì</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Sabato</dt><dd>11:00-12:30 / 16:00-19:30</dd><dt>Domenica</dt><dd>11:00-12:30 / 16:00-19:30</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
-            "buoni": "SI",
-            "consegna": "giovedì",
+            "ritiro": "SI, 377 9790627",
+            "buoni": "NO",
+            "consegna": "Martedì e Venerdì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/cesto.png",
             "gallery":
@@ -124,11 +124,11 @@
             "heading": 0,
             "telefono": "011 19457907",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>7:30 - 19:30</dd><dt>Mercoledì</dt><dd>7:30 - 19:30</dd><dt>Giovedì</dt><dd>7:30 - 19:30</dd><dt>Venerdì</dt><dd>7:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 19:30</dd><dt>Domenica</dt><dd>9:00 - 19:30</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
-            "buoni": "SI",
-            "consegna": "giovedì",
+            "ritiro": "SI, 377 9790627",
+            "buoni": "NO",
+            "consegna": "Su prenotazione",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/muffin.png",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
             "gallery":
                 [
                     "assets/img/locali/sweetlab/punto-ritiro-dolci-senza-glutine-torino-centro.jpg"
@@ -137,17 +137,17 @@
           {
             "id": 8,
             "title": "Fornoo",
-            "location": "Piazza Partigiani <br>10093 Collegno</br>",
+            "location": "Viale Partigiani, 38 <br>10093 Collegno</br>",
             "latitude": 45.09271120713591, 
             "longitude": 7.571796391041289,
             "heading": 165,
              "telefono": "377 9790627",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>7:30 - 19:30</dd><dt>Mercoledì</dt><dd>7:30 - 19:30</dd><dt>Giovedì</dt><dd>7:30 - 19:30</dd><dt>Venerdì</dt><dd>7:30 - 19:30</dd><dt>Sabato</dt><dd>9:00 - 19:30</dd><dt>Domenica</dt><dd>9:00 - 19:30</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
-            "buoni": "SI",
-            "consegna": "giovedì",
+            "ritiro": "SI, 377 9790627",
+            "buoni": "NO",
+            "consegna": "MA - GI - VE - SA",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/muffin.png",
+            "type_icon": "assets/icons/store/apparel/muffin-1.png",
             "gallery":
                 [
                     "assets/img/locali/zeroglu/laboratorio-senza-glutine-collegno-torino.jpg"
@@ -162,11 +162,11 @@
             "heading": 290,
             "telefono": "0131 484123",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>06:30-18:00</dd><dt>Martedì</dt><dd>06:30-18:00</dd><dt>Mercoledì</dt><dd>06:30-18:00</dd><dt>Giovedì</dt><dd>06:30-18:00</dd><dt>Venerdì</dt><dd>06:30-18:00</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
-            "buoni": "SI",
-            "consegna": "giovedì",
+            "ritiro": "SI, 377 9790627",
+            "buoni": "NO",
+            "consegna": "Su prenotazione",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/coffe.png",
+            "type_icon": "assets/icons/store/apparel/cesto.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -181,11 +181,11 @@
             "heading": 140,
             "telefono": "011 19910015",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>06:00-19:00</dd><dt>Martedì</dt><dd>06:00-19:00</dd><dt>Mercoledì</dt><dd>06:00-19:00</dd><dt>Giovedì</dt><dd>06:00-19:00</dd><dt>Venerdì</dt><dd>06:00-19:00</dd><dt>Sabato</dt><dd>06:00-19:00</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/coffe.png",
+            "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -200,9 +200,9 @@
             "heading": 100,
             "telefono": "011 19503790",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>09:00-20:00</dd><dt>Martedì</dt><dd>09:00-20:00</dd><dt>Mercoledì</dt><dd>09:00-20:00</dd><dt>Giovedì</dt><dd>09:00-20:00</dd><dt>Venerdì</dt><dd>09:00-20:00</dd><dt>Sabato</dt><dd>09:00-20:00</dd><dt>Domenica</dt><dd>09:00-20:00</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Martedì e Venerdì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
@@ -219,11 +219,11 @@
             "heading": 280,
             "telefono": "011 7808407",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso / 16.00-19.30</dd><dt>Martedì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Mercoledì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Giovedì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Venerdì</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Sabato</dt><dd>9.30-12.30 / 16.00-19.30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -238,11 +238,11 @@
             "heading": 180,
             "telefono": "011 3589252",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>15:30-19:30</dd><dt>Martedì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Giovedì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Venerdì</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Sabato</dt><dd>9:00-13:00 / 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Giovedì e Sabato",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/cesto.png",
+            "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -257,9 +257,9 @@
             "heading": 240,
             "telefono": "011 6690623",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:30-19:30</dd><dt>Martedì</dt><dd>08:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-19:30</dd><dt>Giovedì</dt><dd>08:30-19:30</dd><dt>Venerdì</dt><dd>08:30-19:30</dd><dt>Sabato</dt><dd>08:30-19:30</dd><dt>Domenica</dt><dd>08:30-19:30</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Giovedì e Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
@@ -276,11 +276,11 @@
             "heading": 34,
             "telefono": "011 19925050",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>09:30–13 / 15:30–19</dd><dt>Mercoledì</dt><dd>09:30–13 / 15:30–19</dd><dt>Giovedì</dt><dd>09:30–13 / 15:30–19</dd><dt>Venerdì</dt><dd>09:30–13 / 15:30–19</dd><dt>Sabato</dt><dd>09:30–13 / 15:30–19</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Martedì e Venerdì",
              "type":"",
-            "type_icon": "assets/icons/store/apparel/coffe.png",
+            "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
                 [
                     "assets/img/locali/artemente/negozio-senza-glutine-san-mauro-torinese-torino.jpg"
@@ -295,9 +295,9 @@
             "heading": 90,
             "telefono": "011 642143",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Martedì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Mercoledì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Giovedì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Venerdì</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Sabato</dt><dd>08:30-13 / 15:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Giovedì e Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
@@ -314,9 +314,9 @@
             "heading": 15,
             "telefono": "011 740708",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:00-19:30</dd><dt>Martedì</dt><dd>08:00-19:30</dd><dt>Mercoledì</dt><dd>08:00-19:30</dd><dt>Giovedì</dt><dd>08:00-19:30</dd><dt>Venerdì</dt><dd>08:00-19:30</dd><dt>Sabato</dt><dd>08:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Giovedì e Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":
@@ -333,9 +333,9 @@
             "heading": 30,
             "telefono": "011 9914110",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Martedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Giovedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Venerdì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Sabato</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
-            "ritiro": "SI, CLICCA QUI!",
+            "ritiro": "SI, 377 9790627",
             "buoni": "SI",
-            "consegna": "giovedì",
+            "consegna": "Martedì e Venerdì",
             "type":"",
             "type_icon": "assets/icons/store/apparel/croce.png",
             "gallery":

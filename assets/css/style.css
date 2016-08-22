@@ -7171,6 +7171,14 @@ span.price {
 
 .how-container h2 {margin-top: 20px;}
 
+.how-container h3 {margin: 3px 0;}
+
+.how-container .fa {
+  margin-right: 5px;
+  width: 14px;
+  float: left;
+}
+
 
 .black-filter {
   position:absolute;
@@ -7181,10 +7189,10 @@ span.price {
   z-index: 0;
   opacity: 0;
   background: rgba(0,0,0, 0.6);
-   -webkit-transition: opacity 800ms ease, right 800ms ease;
--moz-transition: opacity 800ms ease, right 800ms ease;
--o-transition: opacity 800ms ease, right 800ms ease;
-transition: opacity 800ms ease, right 800ms ease;
+   -webkit-transition: opacity 500ms ease;
+-moz-transition: opacity 500ms ease;
+-o-transition: opacity 500ms ease;
+transition: opacity 500ms ease;
 }
 
 .shownav .black-filter   {
@@ -7197,7 +7205,7 @@ transition: opacity 800ms ease, right 800ms ease;
   text-decoration: underline;
 }
 
-.items-list, .map-canvas .map, .call-action {
+.items-list, .map-canvas .map, .call-action, .black-filter {
    -webkit-transition: transform 500ms ease;
 -moz-transition: transform 500ms ease;
 -o-transition: transform 500ms ease;
@@ -7246,13 +7254,13 @@ dt {
 }
 
 .meta p {
-  margin-left: 34px;
+  margin-left: 24px;
 }
 
 
 .meta .fa {
   float: left;
-  margin: 3px 20px 3px 0;
+  margin: 3px 10px 3px 0;
   width: 14px;
   font-size: 14px;
   text-align: center;
@@ -7290,6 +7298,8 @@ top:0;
 left: 0;
 right: 0;
 z-index: 4;
+background-color: #e4e4e2;
+  border-top: 2px solid #e4e4e2;
 border-top: 0;
 -webkit-user-select: none;
 -moz-user-select: none;
@@ -7342,6 +7352,7 @@ z-index: 1;
 .shownav .black-filter {
   z-index: 2;
   opacity: 1;
+  transform: translate3d(35%, 0px, 0px);
 }
 
 
@@ -7367,11 +7378,10 @@ z-index: 1;
   transform: translate3d(60%, 0px, 0px);
 }
 
+.shownav .black-filter {
+
+  transform: translate3d(60%, 0px, 0px);
 }
-
-
-
-@media (max-width: 415px) {
 
 .preview-gallery {
   max-height:200px; 
@@ -7379,12 +7389,19 @@ z-index: 1;
   overflow: hidden;
 }
 
+}
+
+
+
+@media (max-width: 415px) {
+
+
 .items-list {
     display: block;
     float: none;
     position: absolute;
     top:0;
-    width: 80% !important;
+    width: 85% !important;
     transform: translate3d(-100%, 0px, 0px);
     -webkit-transform: translate3d(-100%, 0px, 0px);
   }
@@ -7401,8 +7418,13 @@ z-index: 1;
 
 .map-canvas.shownav .map {
   display: block;
-  transform: translate3d(80%, 0px, 0px);
-  -webkit-transform: translate3d(80%, 0px, 0px);
+  transform: translate3d(85%, 0px, 0px);
+  -webkit-transform: translate3d(85%, 0px, 0px);
+}
+
+.shownav .black-filter {
+
+  transform: translate3d(85%, 0px, 0px);
 }
 
 

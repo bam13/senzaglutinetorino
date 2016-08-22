@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 
-<html lang="en-US">
+<html lang="it">
 <head>
     <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
 
     <link href="assets/fonts/font-awesome.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:700" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css" type="text/css">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
@@ -23,7 +24,17 @@
     <div class="map-canvas list-width-30">
         <!-- Map -->
         <div class="map">
-            <h2 class="call-action">Come Acquistare</h2>
+              <footer id="page-footer">
+                <div class="inner">
+                    <div class="footer-bottom">
+                        <div class="container">
+                            <h4 class="call-action"><i class="fa fa-bars"></i> IL FRESCO SENZA GLUTINE</h4>
+                            <h4 class="left">I NEGOZI</h4>
+                        </div>
+                    </div>
+                <!--/.footer-bottom-->
+                </div>
+            </footer>
             <div id="map" class="has-parallax"></div>
             <!--/#map-->
         </div>
@@ -33,16 +44,6 @@
 
        <div class="black-filter"></div>
     </div>
-     <footer id="page-footer">
-            <div class="inner">
-                <div class="footer-bottom">
-                    <div class="container">
-                        <h4 class="left">Copyright © 2015 <a href="http://www.fornoo.com">Fornoo, il pane fresco senza glutine, scorri sulla mappa per trovare il punto più vicino</h4>
-                    </div>
-                </div>
-                <!--/.footer-bottom-->
-            </div>
-        </footer>
 
 <script type="text/javascript" src="assets/js/jquery-2.1.0.min.js"></script>
 <script>
@@ -60,10 +61,10 @@
         })
 
         $('.black-filter').on('click', function(){
+            $('.map-canvas').removeClass('shownav');
             $.get('assets/external/come-acquistare.html', function(html){
             document.getElementById('info-try').innerHTML = html;
             });
-            $('.map-canvas').removeClass('shownav');
         });
 
      };
@@ -71,9 +72,12 @@
 
 
     function resize() {
+       
+        setMapHeight();
+
         if ($window.width() < 1026) {
             return $info.addClass('info-side');
-     }
+        }
         
         $info.removeClass('info-side');
     }
@@ -83,10 +87,10 @@
         .trigger('resize');
 
     $('.call-action').on('click', function(){
+        $('.map-canvas').addClass('shownav');
+
         $.get('assets/external/come-acquistare.html', function(html){
             document.getElementById('info-try').innerHTML = html;
-
-            $('.map-canvas').addClass('shownav');
 
             $('.black-filter').on('click', function(){
                 $('.map-canvas').removeClass('shownav');
@@ -119,8 +123,8 @@
 <![endif]-->
 
 <script> 
-    var _latitude = 45.071144;
-    var _longitude = 7.685337;
+    var _latitude = 45.091144;
+    var _longitude = 7.665337;
     var jsonPath = 'assets/json/items.json.txt';
 
     // Load JSON data and create Google Maps

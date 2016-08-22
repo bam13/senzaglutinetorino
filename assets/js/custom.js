@@ -24,14 +24,7 @@ $(document).ready(function($) {
     });
 */
 
-    // Scrollbar on "Results" section
-
-    if( $('.items-list').length > 0 ){
-        $(".items-list").mCustomScrollbar({
-            mouseWheel:{ scrollAmount: 350 }
-        });
-    }
-
+    
     // Bootstrap tooltip
 
     $(function () {

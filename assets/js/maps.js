@@ -4,17 +4,21 @@ var $ = jQuery.noConflict();
 var mapStyles = [ {"featureType":"road","elementType":"labels","stylers":[{"visibility":"simplified"},{"lightness":20}]},{"featureType":"administrative.land_parcel","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"visibility":"on"}]},{"featureType":"transit","elementType":"all","stylers":[{"saturation":-100},{"visibility":"on"},{"lightness":10}]},{"featureType":"road.local","elementType":"all","stylers":[{"visibility":"on"}]},{"featureType":"road.local","elementType":"all","stylers":[{"visibility":"on"}]},{"featureType":"road.highway","elementType":"labels","stylers":[{"visibility":"simplified"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"labels","stylers":[{"visibility":"on"},{"lightness":50}]},{"featureType":"water","elementType":"all","stylers":[{"hue":"#a1cdfc"},{"saturation":30},{"lightness":49}]},{"featureType":"road.highway","elementType":"geometry","stylers":[{"hue":"#f49935"}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"hue":"#fad959"}]}, {featureType:'road.highway',elementType:'all',stylers:[{hue:'#dddbd7'},{saturation:-92},{lightness:60},{visibility:'on'}]}, {featureType:'landscape.natural',elementType:'all',stylers:[{hue:'#c8c6c3'},{saturation:-71},{lightness:-18},{visibility:'on'}]},  {featureType:'poi',elementType:'all',stylers:[{hue:'#d9d5cd'},{saturation:-70},{lightness:20},{visibility:'on'}]} ];
 
 // Set map height to 100% ----------------------------------------------------------------------------------------------
+function setMapHeight() { 
+    var $body = $('body');
+    if( $body.hasClass('map-fullscreen') ) {
+        if( $(window).width() > 768 ) {
 
-var $body = $('body');
-if( $body.hasClass('map-fullscreen') ) {
-    if( $(window).width() > 768 ) {
-
-        $('.map-canvas').height( $(window).height() - $('.header').height() );
-    }
-    else {
-        $('.map-canvas #map').height( $(window).height() - $('.header').height() );
+            $('.map-canvas').height( $(window).height() /*- $('#page-footer').height() */);
+            $('.map-canvas #map').height( $(window).height() - $('#page-footer').height() );
+        }
+        else {
+            $('.map-canvas #map').height( $(window).height() - $('#page-footer').height() );
+        }
     }
 }
+
+setMapHeight();
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Homepage map - Google
@@ -27,7 +31,7 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
     function gMap(){
         var mapCenter = new google.maps.LatLng(_latitude,_longitude);
          var mapOptions = {
-            zoom: 12,
+            zoom: 11,
             center: mapCenter,
             disableDefaultUI: false,
             scrollwheel: false,
@@ -54,9 +58,6 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
         var lastClicked = false;
 
 
-        if ($(window).width() < 1026) {
-            map.setZoom(11);
-          };
 
         for (var i = 0; i < json.data.length; i++) {
 
@@ -128,18 +129,19 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
              return function() {
                 document.getElementById('info-try').innerHTML = infoboxContent.innerHTML;
                 var panorama = new google.maps.StreetViewPanorama(
-                document.getElementById('pano'), {
-                  position: marker.position,
-                  pov: {
-                    heading: marker.heading,
-                    pitch: 0
-                  },
-                  motionTracking: false
-                });
-                panorama.setZoom(3);
-               map.setStreetView(panorama);
+                    document.getElementById('pano'), {
+                      position: marker.position,
+                      pov: {
+                        heading: marker.heading,
+                        pitch: 0
+                      },
+                      motionTracking: false
+                    });
+                panorama.setZoom(2);
 
-                $('.map-canvas').addClass('shownav');
+                window.setTimeout(function() {
+                    $('.map-canvas').addClass('shownav');
+                }, 100);
 
                 $('.black-filter').on('click', function(){
                      $('.map-canvas').removeClass('shownav');

@@ -34,16 +34,15 @@
                 '<div id="pano" class="preview-gallery">' +
                 //'<img src="' + gallery +  '">' +
                 '</div>' +
+                 '<h2 class="title">' + title +  '</h2>' +
                     '<div class="meta">' +
-                        '<h2>' + title +  '</h2>' +
-                        '<p>' + location +  '</p>' +
-                        '<p> <i class="fa fa-phone"></i> '  + telefono +  '</p>' +
+                        '<i class="fa fa-map-marker"></i><h2>' + location +  '</h2>' +
+                        '<i class="fa fa-truck"></i><h2>PANE FRESCO: '  + consegna + ' </h2>' +
+                        '<i class="fa fa-phone fa-20"></i><a href="tel:377 9790627"><p class="underline">PRENOTABILE: ' + ritiro +  '</p></a>' +
+                        '<i class="fa fa-credit-card fa-20"></i><p>ACCETTA BUONI ASL: ' + buoni +  '</p>' +
                         '<h2> <i class="fa fa-clock-o"></i> ORARI DI APERTURA</h2>' +
-                        '<article class="block">' + orari +  '</article>' +
-                        '<div class="col-md-6"> <h2>RITIRO PRODOTTI</h2> <h2>' + ritiro +  '</h2></div>' +
-                        '<div class="col-md-6"> <h2>EROGAZIONE PRODOTTI</h2> <h2>' + buoni +  '</h2></div>' +
-                        '<h2> CONSEGNAMO IL</h2>' +
-                        '<p>' + consegna +  '</p>' +
+                        '<article class="tab-orari">' + orari +  '</article>' +
+                        '<i class="fa fa-phone"></i><h2><a href="tel:' + telefono + '">' + telefono + '</a></h2>' +
                    '</div>' +
             '</div>' +
         '</div>' +

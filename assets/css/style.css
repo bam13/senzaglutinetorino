@@ -7233,13 +7233,24 @@ dt {
 }
 
  .title {
-      padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background: #ff513f;
     color: white;
     margin: 0;
     text-align: center;
+    line-height: 25px;
 
+}
+
+.title i {
+  color: black;
+  font-size: 22px;
+  padding-right: 5px;
+}
+
+h2.title {
+  font-size: 15px;
 }
 
  .meta h2, .meta p {

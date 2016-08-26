@@ -135,7 +135,7 @@
         },
           {
             "id": 8,
-            "title": "Fornoo",
+            "title": "Fornoo - Laboratorio produzione",
             "location": "Viale dei Partigiani 38 <br>10093 Collegno (TO)</br>",
             "latitude": 45.09271120713591, 
             "longitude": 7.571796391041289,
@@ -144,7 +144,7 @@
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9:00 - 13:00</dd><dt>Mercoledì</dt><dd>chiuso</dd><dt>Giovedì</dt><dd>9:00 - 13:00</dd><dt>Venerdì</dt><dd>9:00 - 13:00</dd><dt>Sabato</dt><dd>9:00 - 13:00</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "SI, 377 9790627",
             "buoni": "NO",
-            "consegna": "MA - GI - VE - SA",
+            "consegna": "MAR - GIO - VEN - SAB",
              "type":"",
             "type_icon": "assets/icons/store/apparel/fornoo-senza-glutine-orange.png",
             "gallery":
@@ -196,7 +196,7 @@
             "location": "Via Bologna 250 <br>10154 Torino</br>",
             "latitude": 45.092023, 
             "longitude":  7.713751,
-            "heading": 100,
+            "heading": 115,
             "telefono": "011 19503790",
              "orari":"<dlclass=\"lines\"><dt>Lunedì</dt><dd>09:00-20:00</dd><dt>Martedì</dt><dd>09:00-20:00</dd><dt>Mercoledì</dt><dd>09:00-20:00</dd><dt>Giovedì</dt><dd>09:00-20:00</dd><dt>Venerdì</dt><dd>09:00-20:00</dd><dt>Sabato</dt><dd>09:00-20:00</dd><dt>Domenica</dt><dd>09:00-20:00</dd></dl>",
             "ritiro": "SI, 377 9790627",

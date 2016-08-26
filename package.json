@@ -1,7 +1,32 @@
 {
-  "name": "hello"
-, "version": "0.0.1"
-, "dependencies": {
-    "express": "3.x"
-  }
+  "name": "senzaglutinetorino.package.json",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x",
+    "purify-css": "^1.1.9"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "standard npm pagkage manager file for senzaglutinetorino.it",
+  "main": "server.js",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bam13/senzaglutinetorino.git"
+  },
+  "keywords": [
+    "senza",
+    "glutine",
+    "torino",
+    "web"
+  ],
+  "author": "r. ferro, a.m. berardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bam13/senzaglutinetorino/issues"
+  },
+  "homepage": "https://github.com/bam13/senzaglutinetorino#readme"
 }

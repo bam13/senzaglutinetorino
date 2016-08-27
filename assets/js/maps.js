@@ -214,6 +214,7 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
 
         // Create marker clusterer -----------------------------------------------------------------------------------------
 
+        /*
         var clusterStyles = [
             {
                 url: 'assets/img/cluster.png',
@@ -226,6 +227,7 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
         markerCluster.onClick = function(clickedClusterIcon, sameLatitude, sameLongitude) {
             return multiChoice(sameLatitude, sameLongitude, json);
         };
+        */
 
         // Dynamic loading markers and data from JSON ----------------------------------------------------------------------
 
@@ -240,7 +242,7 @@ function createHomepageGoogleMap(_latitude,_longitude,json){
                                 if( !visibleArray[i].content.className ){
                                     visibleArray[i].setMap(map);
                                     visibleArray[i].content.className += 'bounce-animation marker-loaded';
-                                    markerCluster.repaint();
+                                    // markerCluster.repaint();
                                 }
                             }
                         }, i * 50);

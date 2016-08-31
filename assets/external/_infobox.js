@@ -44,7 +44,7 @@
                         '<p><i class="fa fa-credit-card"></i> ACCETTA BUONI ASL: ' + buoni +  '</p>' +
                         '<p><i class="fa fa-clock-o"></i> ORARI DI APERTURA</p>' +
                         '<article class="tab-orari">' + orari +  '</article>' +
-                        '<p><i class="fa fa-phone"></i><a href="tel:' + telefono + '">' + telefono + '</a></p>' +
+                        '<p><i class="fa fa-phone"></i> NEGOZIO: <a href="tel:' + telefono + '">' + telefono + '</a></p>' +
                    '</div>' +
             '</div>' +
         '</div>' +

@@ -1,0 +1,487 @@
+/*	Fallback for fade-in page animation when jQuery/Javascript is not available:
+		if the class ".page-fade-in" couldn't be attached to <body> tag it animate in 5 seconds nevertheless
+		This fallback is necessary because using simply opacity: 0; for body and waiting for .ready() to
+		attach .page-fade-in class to body shows a blank page if jQuery/javascript is not available */
+
+body {
+	opacity: 1;
+  -webkit-animation: fade-in-fallback 1s forwards;
+  -moz-animation: fade-in-fallback 1s forwards;
+  -ms-animation: fade-in-fallback 1s forwards;
+  animation: fade-in-fallback 1s forwards;
+}
+
+@-webkit-keyframes fade-in-fallback {}
+@-moz-keyframes fade-in-fallback {}
+@-ms-keyframes fade-in-fallback {}
+@keyframes fade-in-fallback {}
+@-webkit-keyframes fade-in-fallback {
+  0% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+  }
+
+  100% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+    opacity: 1;
+  }
+}
+@-moz-keyframes fade-in-fallback {
+  0% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+  }
+
+  100% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+    opacity: 1;
+  }
+}
+@-ms-keyframes fade-in-fallback {
+  0% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+  }
+
+  100% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+    opacity: 1;
+  }
+}
+@keyframes fade-in-fallback {
+  0% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+  }
+
+  100% {
+    filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+    opacity: 1;
+  }
+}
+
+/* End Fallback fade in */
+
+/* index.html header animation */
+
+.hero-image .inner h2 {
+  background-color: rgba(0, 0, 0, 0.7);
+  display: inline-block;
+  font-size: 25px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+#featured .item {
+    margin-bottom:10px;
+}
+
+.item .image a .overlay .content p{
+  max-height: 100%;
+  font-size: 13px;
+}
+
+.toggle-navigation .icon {
+  margin: 0;
+}
+
+.background {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.background img {
+  position: absolute;
+  top:-40%;
+  left:0;
+  min-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 700px) {
+
+  .background img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+}
+}
+
+#featured ul li {
+  list-style-type: disc;
+  text-align: left;
+}
+
+.background .bg1 {
+  z-index: 5;
+  -webkit-animation: slider;
+  -webkit-animation-duration:1s;
+  -webkit-animation-delay:5s;
+  -webkit-animation-timing-function: ease-out;
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation: slider;
+  -moz-animation-duration:1s;
+  -moz-animation-delay:5s;
+  -moz-animation-timing-function: ease-out;
+  -moz-animation-fill-mode:forwards;
+  -ms-animation: slider;
+  -ms-animation-duration:1s;
+  -ms-animation-delay:5s;
+  -ms-animation-timing-function: ease-out;
+  -ms-animation-fill-mode:forwards;
+  -o-animation: slider;
+  -o-animation-duration:1s;
+  -o-animation-delay:5s;
+  -o-animation-timing-function: ease-out;
+  -o-animation-fill-mode:forwards;
+}
+
+.background .bg2 {
+  z-index: 4;
+  -webkit-animation: slider;
+  -webkit-animation-duration:1s;
+  -webkit-animation-delay:11s;
+  -webkit-animation-timing-function: ease-out;
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation: slider;
+  -moz-animation-duration:1s;
+  -moz-animation-delay:11s;
+  -moz-animation-timing-function: ease-out;
+  -moz-animation-fill-mode:forwards;
+    -ms-animation: slider;
+  -ms-animation-duration:1s;
+  -ms-animation-delay:11s;
+  -ms-animation-timing-function: ease-out;
+  -ms-animation-fill-mode:forwards;
+  -o-animation: slider;
+  -o-animation-duration:1s;
+  -o-animation-delay:11s;
+  -o-animation-timing-function: ease-out;
+  -o-animation-fill-mode:forwards;
+}
+
+.background .bg3 {
+  z-index: 3;
+  -webkit-animation: slider;
+  -webkit-animation-duration:1s;
+  -webkit-animation-delay:17s;
+  -webkit-animation-timing-function: ease-out;
+  -webkit-animation-fill-mode:forwards;
+  -moz-animation: slider;
+ -moz-animation-duration:1s;
+  -moz-animation-delay:17s;
+  -moz-animation-timing-function: ease-out;
+  -moz-animation-fill-mode:forwards;
+ -ms-animation: slider;
+  -ms-animation-duration:1s;
+  -ms-animation-delay:17s;
+  -ms-animation-timing-function: ease-out;
+  -ms-animation-fill-mode:forwards;
+  -o-animation: slider;
+  -o-animation-duration:1s;
+  -o-animation-delay:17s;
+  -o-animation-timing-function: ease-out;
+  -o-animation-fill-mode:forwards;
+}
+
+.background .bg4 {
+  z-index: 2;
+}
+
+@-webkit-keyframes slider { 
+   0% {opacity: 1;}
+   100% {opacity: 0;}
+ }
+
+@-moz-keyframes slider { 
+   0% {opacity: 1;}
+   100% {opacity: 0;}
+ }
+
+ @-ms-keyframes slider { 
+   0% {opacity: 1;}
+   100% {opacity: 0;}
+ }
+
+@-o-keyframes slider { 
+   0% {opacity: 1;}
+   100% {opacity: 0;}
+ }
+
+/* index.html header animation end */
+
+#sidebar> section a {
+    padding: 15px;
+}
+
+#sidebar> section>a h3 {
+	margin-top:15px;
+}
+
+#page-content {
+	padding-bottom: 0px;
+}
+
+#page-footer .inner, #page-footer {
+	margin:0;
+	padding: 0;
+	width: 100%;
+	display: table;
+}
+
+#page-footer .inner .footer-bottom {
+	margin-top:0px;
+}
+
+#page-footer p, #page-footer a {
+	color: rgba(0, 0, 0, 0.6);
+}
+
+.toggle-navigation .icon {
+	margin-right:10px;
+	margin-top:-9px;
+}
+
+.header .wrapper {
+	padding:12px 0 0 5px;
+}
+
+.page-item-detail #map-detail {
+	height: 250px;
+}
+
+#why-us h3 {
+	height: 38px;
+}
+
+.about-us {
+	color: #000;
+	width: 100%;
+}
+
+.brand h1 {
+  font-size: 20px;
+  
+}
+
+.page-item-detail #main-content .page-title h2 {
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.top20 {
+	margin-top:20px;
+}
+
+.padding70 {
+	padding-top:40px; 
+	padding-bottom: 0px;
+}
+
+.top10 {
+	margin-top:10px;
+}
+
+.btm20 {
+	margin-bottom: 20px;
+}
+
+hr {
+  border-color: rgba(255, 255, 255, 0.06);
+
+}
+
+.center-block {
+	float:none;
+}
+
+#sidebar section a {
+	padding: 30px;
+}
+
+#sidebar>.item-horizontal img {
+	margin: 0;
+}
+
+.item-horizontal.small .wrapper {
+	margin-top:0;
+}
+
+#image .inner h2 {
+  background-color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 150px;
+  padding: 10px;
+}
+
+.background {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.background img {
+  min-width: 100%;
+  height: auto;
+}
+
+
+#features>.container img.col-md-12 {
+	margin-top: 20px;
+}
+
+.description i, .fa20 {
+	margin-right: 10px;
+	font-size: 20px;
+}
+
+.fa-mobile.fa20 {
+	padding-left: 7px;
+}
+
+.description i.fa.fa-map-marker, .description i.fa.fa-question-circle {
+	margin: 0 10px 0 5px;
+}
+
+/* info generali suoi luoghi della mappa */
+.gm-sm , .gm-style-iw {
+    display: none !important;
+    visibility: hidden !important;
+}
+/* info generali suoi luoghi della mappa */
+
+#page-content ul, #page-content ol {
+	padding:10px;
+}	
+
+.item-specific {
+	display: none;
+}
+
+#popular.babackground-color-transparent>.container {
+	padding-left: 0;
+}
+
+#map-simple {
+	height: 300px;
+}
+
+#istruzioni {
+	padding: 0;
+	margin: 0;
+}
+
+#istruzioni .row{
+	line-height: 23px;
+}
+
+#istruzioni h1 {
+	position: relative;
+	padding:20px;
+	background:transparent;
+}
+
+#istruzioni h2 {
+	position: relative;
+	background:transparent;
+	padding:20px;
+	font-weight: lighter;
+}
+
+h2.point-one:before {
+	content: "";
+	position: absolute;
+	z-index: -1;
+	background: url(../img/items/1.png) no-repeat center;
+	background-size: 130px 130px;
+	width: 130px;
+	height:130px;
+	top:-60px;
+	left: calc(50% - 130px / 2);
+}
+
+h2.point-two:before {
+	content: "";
+	background: url(../img/items/2.png) no-repeat center;
+	position: absolute;
+	width: 130px;
+	height:130px;
+	z-index: -1;
+	background-size: 130px 130px;
+	top:-60px;
+	left: calc(50% - 130px / 2);
+
+}
+
+h2.point-three:before {
+	content: "";
+	background: url(../img/items/3.png) no-repeat center;
+	position: absolute;
+	width: 130px;
+	height:130px;
+	z-index: -1;
+	background-size: 130px 130px;
+	top:-60px;
+	left: calc(50% - 130px / 2);
+}
+
+#featured .wrapper h3 {
+	height: 34px;
+}
+
+#featured .wrapper p {
+	font-size: 12px;
+}
+
+#page-footer p {
+	font-size: 0.5em;
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+#sidebar .image, #sidebar .item-horizontal .image {
+    display: block;
+    margin: 0 auto;
+    float: none;
+  }
+}
+
+.map-canvas .results.list li .item .wrapper .info .rating {
+	display: none;
+}
+
+/* sidebar scroll */
+
+.side-scroll {
+	height: 640px;
+	background-color: #efefef;
+	padding: 15px 0px 15px 15px;
+	box-sizing:margin-box;
+}
+
+.side-scroll .mCSB_inside > .mCSB_container {
+	margin: 0;
+}
+
+/* sidebar scroll */
+
+@media (max-width: 991px) {
+	
+	.side-scroll {
+		height: 300px;
+	}
+
+}
+
+

@@ -178,7 +178,7 @@
             "latitude": 45.13193035244539, 
             "longitude":  7.757830525765598,
             "heading": 140,
-            "telefono": "011 19910015",
+            "telefono": "338 2978180",
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>09-12:30 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>09-12:30 / 15:30-19:30</dd><dt>Giovedì</dt><dd>09-12:30 / 15:30-19:30</dd><dt>Venerdì</dt><dd>09-12:30 / 15:30-19:30</dd><dt>Sabato</dt><dd>10-18</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",

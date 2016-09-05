@@ -341,6 +341,25 @@
                 [
                      "assets/img/foto-negozio-segnaposto.png" 
                ]
+        },
+         {
+            "id": 19,
+            "title": "Farmacia Corso Regina",
+            "location": "Corso Regina Margherita 72<br>10153 Torino</br>",
+            "latitude": 45.0729578, 
+            "longitude":  7.6956129,
+            "heading": 350,
+            "telefono": "011 4338943",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>08:30-19:30</dd><dt>Martedì</dt><dd>08:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-19:30</dd><dt>Giovedì</dt><dd>08:30-19:30</dd><dt>Venerdì</dt><dd>08:30-19:30</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Venerdì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
         }
      ]
 }

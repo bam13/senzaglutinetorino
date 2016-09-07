@@ -331,7 +331,7 @@
             "longitude":  7.64523298,
             "heading": 30,
             "telefono": "011 9914110",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Martedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Giovedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Venerdì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Sabato</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>08:30-19:30</dd><dt>Martedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Giovedì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Venerdì</dt><dd>08:30-12:30 / 15:30-19:30</dd><dt>Sabato</dt><dd>08:30-12:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",

@@ -360,6 +360,25 @@
                 [
                      "assets/img/foto-negozio-segnaposto.png" 
                ]
+        },
+         {
+            "id": 20,
+            "title": "Val Bio Parafarmacia",
+            "location": "Via Cesare Battisti, 1<br>10023 Chieri</br>",
+            "latitude": 45.0077691, 
+            "longitude":  7.82516,
+            "heading": 225,
+            "telefono": " 011 0683694",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15:30-19:30</dd><dt>Martedì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Mercoledì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Giovedì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Venerdì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Sabato</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
         }
      ]
 }

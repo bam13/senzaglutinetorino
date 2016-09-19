@@ -239,7 +239,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15:30-19:30</dd><dt>Martedì</dt><dd>9-13 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>9-13 / 15:30-19:30</dd><dt>Giovedì</dt><dd>9-13 / 15:30-19:30</dd><dt>Venerdì</dt><dd>9-13 / 15:30-19:30</dd><dt>Sabato</dt><dd>9-13 / 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Giovedì e Sabato",
+            "consegna": "Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -411,6 +411,25 @@
             "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 23,
+            "title": "Farmacia della Crociera",
+            "location": "Via dei Martiri, 4<br>10042 Nichelino (TO)</br>",
+            "latitude": 45.0021014, 
+            "longitude":  7.6560204,
+            "heading": 137,
+            "telefono": " 011 6273092",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-13:00 14:30-19:30</dd><dt>Martedì</dt><dd>8:30-13:00 14:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-13:00 14:30-19:30</dd><dt>Giovedì</dt><dd>8:30-13:00 14:30-19:30</dd><dt>Venerdì</dt><dd>8:30-13:00 14:30-19:30</dd><dt>Sabato</dt><dd>8:30-13:00 15:00-19:00</dd><dt>Domenica</dt><dd>8:30-12:30 15:00-19:00</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Giovedì",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":

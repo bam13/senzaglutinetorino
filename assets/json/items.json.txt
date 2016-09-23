@@ -388,7 +388,7 @@
             "longitude":  7.6429429,
             "heading": 320,
             "telefono": " 011 35.00.10",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-19:30</dd><dt>Martedì</dt><dd>8:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-19:30</dd><dt>Giovedì</dt><dd>8:30-19:30</dd><dt>Venerdì</dt><dd>8:30-19:30</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-19:30</dd><dt>Martedì</dt><dd>8:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-19:30</dd><dt>Giovedì</dt><dd>8:30-19:30</dd><dt>Venerdì</dt><dd>8:30-19:30</dd><dt>Sabato</dt><dd>aperto a sabati alterni</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Giovedì",

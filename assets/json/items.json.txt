@@ -201,7 +201,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>09-20</dd><dt>Martedì</dt><dd>09-20</dd><dt>Mercoledì</dt><dd>09-20</dd><dt>Giovedì</dt><dd>09-20</dd><dt>Venerdì</dt><dd>09-20</dd><dt>Sabato</dt><dd>09-20</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Martedì e Venerdì",
+            "consegna": "Martedì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -296,7 +296,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>08:30-13 / 15-19:30</dd><dt>Martedì</dt><dd>08:30-13 / 15-19:30</dd><dt>Mercoledì</dt><dd>08:30-13 / 15-19:30</dd><dt>Giovedì</dt><dd>08:30-13 / 15-19:30</dd><dt>Venerdì</dt><dd>08:30-13 / 15-19:30</dd><dt>Sabato</dt><dd>08:30-13 / 15-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Giovedì e Sabato",
+            "consegna": "Giovedì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":

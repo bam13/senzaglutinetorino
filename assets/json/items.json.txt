@@ -46,7 +46,7 @@
             "longitude": 7.683090,
             "heading": 45,
              "telefono": "011 569 0427",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:45 12:45 / 15-19</dd><dt>Martedì</dt><dd>8:45 12:45 / 15-19</dd><dt>Mercoledì</dt><dd>8:45 12:45 / 15-19</dd><dt>Giovedì</dt><dd>8:45 12:45 / 15-19</dd><dt>Venerdì</dt><dd>8:45 12:45 / 15-19</dd><dt>Sabato</dt><dd>8:45 12:45</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15-19</dd><dt>Martedì</dt><dd>8:45 12:45 / 15-19</dd><dt>Mercoledì</dt><dd>8:45 12:45 / 15-19</dd><dt>Giovedì</dt><dd>8:45 12:45 / 15-19</dd><dt>Venerdì</dt><dd>8:45 12:45 / 15-19</dd><dt>Sabato</dt><dd>8:45 12:45</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
               "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Martedì e Venerdì",
@@ -410,7 +410,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>8:30-14:00 16:00-19:30</dd><dt>Mercoledì</dt><dd>8:30-14:00 16:00-19:30</dd><dt>Giovedì</dt><dd>8:30-14:00 16:00-19:30</dd><dt>Venerdì</dt><dd>8:30-14:00 16:00-19:30</dd><dt>Sabato</dt><dd>8:30-14:00 16:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Sabato",
+            "consegna": "Giovedì e Sabato",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -430,6 +430,25 @@
             "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 24,
+            "title": "Farmacia Sant'Anna",
+            "location": "Via Torino, 101<br>10099 San Mauro Torinese (TO)</br>",
+            "latitude": 45.095678, 
+            "longitude":  7.7554584,
+            "heading": 142,
+            "telefono": " 011 822 4333",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-20:00</dd><dt>Martedì</dt><dd>8:30-20:00</dd><dt>Mercoledì</dt><dd>8:30-20:00</dd><dt>Giovedì</dt><dd>8:30-20:00</dd><dt>Venerdì</dt><dd>8:30-20:00</dd><dt>Sabato</dt><dd>8:30-20:00</dd><dt>Domenica</dt><dd>9:00-13:00</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Venerdì",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":

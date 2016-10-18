@@ -455,6 +455,101 @@
                 [
                      "assets/img/foto-negozio-segnaposto.png" 
                ]
+        },
+         {
+            "id": 25,
+            "title": "Naturalmente... da Donatella",
+            "location": "Via Martiri della Libertà, 67<br>10099 San Mauro Torinese (TO)</br>",
+            "latitude": 45.1002438, 
+            "longitude":  7.7636449,
+            "heading": 346,
+            "telefono": " 011 5843 486",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>Chiuso</dd><dt>Martedì</dt><dd>8:00-19:30</dd><dt>Mercoledì</dt><dd>8:00-19:30</dd><dt>Giovedì</dt><dd>8:00-19:30</dd><dt>Venerdì</dt><dd>8:00-19:30</dd><dt>Sabato</dt><dd>8:30-14:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Venerdì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 26,
+            "title": "Mondo Celiaco",
+            "location": "Via Lionne, 7<br>10022 Carmagnola (TO)</br>",
+            "latitude": 44.846313, 
+            "longitude":  7.7141382,
+            "heading": 125,
+            "telefono": " 011 97111 99",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15:30-19:30</dd><dt>Martedì</dt><dd>9:00-13:00 15:30-19:30</dd><dt>Mercoledì</dt><dd>9:00-13:00 15:30-19:30</dd><dt>Giovedì</dt><dd>9:00-13:00 15:30-19:30</dd><dt>Venerdì</dt><dd>9:00-13:00 15:30-19:30</dd><dt>Sabato</dt><dd>9:00-13:00 15:30-19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 27,
+            "title": "Farmacia Pozzati",
+            "location": "Piazza Carlo Alberto, 1<br>10041 Carignano (TO)</br>",
+            "latitude": 44.9066747, 
+            "longitude":  7.6744133,
+            "heading": 132,
+            "telefono": " 011 9697 164",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:00-13:00 15:00-19:30</dd><dt>Martedì</dt><dd>8:00-13:00 15:00-19:30</dd><dt>Mercoledì</dt><dd>8:00-13:00 15:00-19:30</dd><dt>Giovedì</dt><dd>8:00-13:00 15:00-19:30</dd><dt>Venerdì</dt><dd>8:00-13:00 15:00-19:30</dd><dt>Sabato</dt><dd>8:00-13:00 15:00-19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 28,
+            "title": "Intolleranza Zero",
+            "location": "Via Torino, 156<br>10015 Ivrea (TO)</br>",
+            "latitude": 45.4525496, 
+            "longitude":  7.8787456,
+            "heading": 305,
+            "telefono": " 0125 196 0127",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>Chiuso</dd><dt>Martedì</dt><dd>9:00-12:15 15:30-19:00</dd><dt>Mercoledì</dt><dd>9:00-12:15 15:30-19:00</dd><dt>Giovedì</dt><dd>9:00-12:15 15:30-19:00</dd><dt>Venerdì</dt><dd>9:00-12:15 15:30-19:00</dd><dt>Sabato</dt><dd>9:00-12:15 15:30-19:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 29,
+            "title": "Il forno di Nonna Ada",
+            "location": "Via Martiri della Libertà, 13<br>10075 Mathi (TO)</br>",
+            "latitude": 45.2587821, 
+            "longitude":  7.5415357,
+            "heading": 140,
+            "telefono": " 348 555 0215",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>Chiuso</dd><dt>Martedì</dt><dd>15:30-19:00</dd><dt>Mercoledì</dt><dd>9:30-12:30 15:30-19:00</dd><dt>Giovedì</dt><dd>9:30-12:30 15:30-19:00</dd><dt>Venerdì</dt><dd>9:30-12:30 15:30-19:00</dd><dt>Sabato</dt><dd>9:30-12:30 15:30-19:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Venerdì, su prenotazione",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
         }
      ]
 }

@@ -391,7 +391,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-19:30</dd><dt>Martedì</dt><dd>8:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-19:30</dd><dt>Giovedì</dt><dd>8:30-19:30</dd><dt>Venerdì</dt><dd>8:30-19:30</dd><dt>Sabato</dt><dd>aperto a sabati alterni</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Giovedì",
+            "consegna": "Venerdì",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":

@@ -11,7 +11,7 @@
             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9:30-12:30 / 15:30-19:30</dd><dt>Mercoledì</dt><dd>9:30-12:30 / 15:30-19:30</dd><dt>Giovedì</dt><dd>10-18</dd><dt>Venerdì</dt><dd>9:30-12:30 / 15:30-19:30</dd><dt>Sabato</dt><dd>10-18</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Martedì e Venerdì",
+            "consegna": "Martedì, Venerdì e Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -78,16 +78,16 @@
         },
         {
             "id": 5,
-            "title": "Naturalia",
-            "location": "Via Cadorna 17/C <br>10136 Torino</br>",
-            "latitude": 45.0450748,
-            "longitude": 7.6478973,
-            "heading": 165,
-            "telefono": "011 3299193",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:45 13 / 15:15 19:30</dd><dt>Martedì</dt><dd>8:45 13 / 15:15 19:30</dd><dt>Mercoledì</dt><dd>8:45 13 / 15:15 19:30</dd><dt>Giovedì</dt><dd>8:45 19:30</dd><dt>Venerdì</dt><dd>8:45 13 / 15:15 19:30</dd><dt>Sabato</dt><dd>8:45 13 / 15:15 19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "title": "Sglutiniamole",
+            "location": "Piazza Nilde Jotti, 6 <br>10093 Collegno</br>",
+            "latitude": 45.0748392,
+            "longitude": 7.5756099,
+            "heading": 202,
+            "telefono": "011 406 0068",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15:30 19:30</dd><dt>Martedì</dt><dd>9:00-13:00 / 15:30 19:30</dd><dt>Mercoledì</dt><dd>9:00-13:00</dd><dt>Giovedì</dt><dd>9:00-13:00 / 15:30 19:30</dd><dt>Venerdì</dt><dd>9:00-13:00 / 15:30 19:30</dd><dt>Sabato</dt><dd>9:00-13:00 / 15:30 19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
-            "buoni": "NO",
-            "consegna": "Giovedì",
+            "buoni": "SI",
+            "consegna": "dal Martedì al Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -106,26 +106,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>9-12:30 / 16-19:30</dd><dt>Martedì</dt><dd>9-12:30 / 16-19:30</dd><dt>Mercoledì</dt><dd>9-12:30 / 16-19:30</dd><dt>Giovedì</dt><dd>9-12:30 / 16-19:30</dd><dt>Venerdì</dt><dd>9-12:30 / 16-19:30</dd><dt>Sabato</dt><dd>9-12:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "NO",
-            "consegna": "Martedì",
-             "type":"",
-            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
-            "gallery":
-                [
-                    "assets/img/foto-negozio-segnaposto.png" 
-                ]
-        },
-          {
-            "id": 7,
-            "title": "Sweet Lab",
-            "location": "Via Principe Amedeo 39 <br>10123 Torino</br>",
-            "latitude": 45.06629054, 
-            "longitude": 7.6916093,
-            "heading": 0,
-            "telefono": "011 19457907",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>7:30-19:30</dd><dt>Mercoledì</dt><dd>7:30-19:30</dd><dt>Giovedì</dt><dd>7:30-19:30</dd><dt>Venerdì</dt><dd>7:30-19:30</dd><dt>Sabato</dt><dd>9-19:30</dd><dt>Domenica</dt><dd>9-19:30</dd></dl>",
-            "ritiro": "377 9790627",
-            "buoni": "NO",
-            "consegna": "Su prenotazione",
+            "consegna": "Martedì su prenotazione",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -141,10 +122,10 @@
             "longitude": 7.571796391041289,
             "heading": 165,
              "telefono": "377 9790627",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>chiuso</dd><dt>Martedì</dt><dd>9-13</dd><dt>Mercoledì</dt><dd>chiuso</dd><dt>Giovedì</dt><dd>9-13</dd><dt>Venerdì</dt><dd>9-13</dd><dt>Sabato</dt><dd>9-13</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>non aperto al pubblico</dd><dt>Martedì</dt><dd>non aperto al pubblico</dd><dt>Mercoledì</dt><dd>non aperto al pubblico</dd><dt>Giovedì</dt><dd>non aperto al pubblico</dd><dt>Venerdì</dt><dd>non aperto al pubblico</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "NO",
-            "consegna": "MAR GIO VEN SAB",
+            "consegna": "PIZZA, DOLCI, GRISSINI",
              "type":"",
             "type_icon": "assets/icons/store/apparel/fornoo-senza-glutine-orange.png",
             "gallery":
@@ -154,16 +135,16 @@
         },
          {
             "id": 9,
-            "title": "Bla...Bla...Bar",
-            "location": "Via Gramsci 53 <br>15121 Alessandria</br>",
-            "latitude": 44.9111509676,
-            "longitude":  8.60958997,
-            "heading": 290,
-            "telefono": "0131 484123",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>06:30-18</dd><dt>Martedì</dt><dd>06:30-18</dd><dt>Mercoledì</dt><dd>06:30-18</dd><dt>Giovedì</dt><dd>06:30-18</dd><dt>Venerdì</dt><dd>06:30-18</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "title": "Biocelia Saluzzo",
+            "location": "Corso Roma, 27B <br>12037 Saluzzo (CN)</br>",
+            "latitude": 44.641789,
+            "longitude":  7.4977435,
+            "heading": 121,
+            "telefono": "0175 291284",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>16:00-19:30</dd><dt>Martedì</dt><dd>9:00-12:30 / 16:00-19:30</dd><dt>Mercoledì</dt><dd>9:00-12:30 / 16:00-19:30</dd><dt>Giovedì</dt><dd>9:00-12:30</dd><dt>Venerdì</dt><dd>9:00-12:30 / 16:00-19:30</dd><dt>Sabato</dt><dd>9:00-12:30 / 16:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
-            "buoni": "NO",
-            "consegna": "Su prenotazione",
+            "buoni": "SI",
+            "consegna": "Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -201,7 +182,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>09-20</dd><dt>Martedì</dt><dd>09-20</dd><dt>Mercoledì</dt><dd>09-20</dd><dt>Giovedì</dt><dd>09-20</dd><dt>Venerdì</dt><dd>09-20</dd><dt>Sabato</dt><dd>09-20</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Martedì",
+            "consegna": "Martedì su prenotazione",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -220,7 +201,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>16-19:30</dd><dt>Martedì</dt><dd>9:30-12.30 / 16-19:30</dd><dt>Mercoledì</dt><dd>9:30-12.30 / 16-19:30</dd><dt>Giovedì</dt><dd>9:30-12.30 / 16-19:30</dd><dt>Venerdì</dt><dd>9:30-12.30 / 16-19:30</dd><dt>Sabato</dt><dd>9:30-12.30 / 16-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Giovedì e Sabato",
+            "consegna": "Mercoledì e Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -258,7 +239,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>08:30-19:30</dd><dt>Martedì</dt><dd>08:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-19:30</dd><dt>Giovedì</dt><dd>08:30-19:30</dd><dt>Venerdì</dt><dd>08:30-19:30</dd><dt>Sabato</dt><dd>08:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Giovedì e Sabato",
+            "consegna": "Martedì, Giovedì e Sabato",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -315,7 +296,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>08-19:30</dd><dt>Martedì</dt><dd>08-19:30</dd><dt>Mercoledì</dt><dd>08-19:30</dd><dt>Giovedì</dt><dd>08-19:30</dd><dt>Venerdì</dt><dd>08-19:30</dd><dt>Sabato</dt><dd>08-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Giovedì e Sabato",
+            "consegna": "Martedì e Venerdì",
              "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -353,7 +334,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>08:30-19:30</dd><dt>Martedì</dt><dd>08:30-19:30</dd><dt>Mercoledì</dt><dd>08:30-19:30</dd><dt>Giovedì</dt><dd>08:30-19:30</dd><dt>Venerdì</dt><dd>08:30-19:30</dd><dt>Sabato</dt><dd>chiuso</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Venerdì",
+            "consegna": "Martedì",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -372,7 +353,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15:30-19:30</dd><dt>Martedì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Mercoledì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Giovedì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Venerdì</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Sabato</dt><dd>09:00-13:00 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Sabato",
+            "consegna": "Sabato. Giovedì su prenotazione",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -391,7 +372,7 @@
              "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-19:30</dd><dt>Martedì</dt><dd>8:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-19:30</dd><dt>Giovedì</dt><dd>8:30-19:30</dd><dt>Venerdì</dt><dd>8:30-19:30</dd><dt>Sabato</dt><dd>aperto a sabati alterni</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
-            "consegna": "Venerdì",
+            "consegna": "Martedì e Venerdì",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":
@@ -544,6 +525,215 @@
             "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Venerdì, su prenotazione",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 30,
+            "title": "Celiachia e Benessere",
+            "location": "Via Fratelli Macario, 15d<br>10098 Rivoli (TO)</br>",
+            "latitude": 45.0700199, 
+            "longitude":  7.5391311,
+            "heading": 153,
+            "telefono": " 011 95 72 780",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>Chiuso</dd><dt>Martedì</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Mercoledì</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Giovedì</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Venerdì</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Sabato</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Martedì e Venerdì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 31,
+            "title": "Freschezza Più",
+            "location": "Via Ferruccio Valobra, 187<br>10022 Carmagnola (TO)</br>",
+            "latitude": 44.8456995, 
+            "longitude":  7.7160616,
+            "heading": 223,
+            "telefono": " 011 972 0261",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>9:00-12:30 15:30-19</dd><dt>Martedì</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Mercoledì</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Giovedì</dt><dd>9:00-12:30</dd><dt>Venerdì</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Sabato</dt><dd>9:00-12:30 15:30-19:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì e Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 32,
+            "title": "La Casa del Senza Glutine",
+            "location": "Viale Madonna dei Fiori, 36<br>12042 Bra (CN)</br>",
+            "latitude": 44.7043505, 
+            "longitude":  7.8450939,
+            "heading": 190,
+            "telefono": " 0172 423087",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Martedì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Mercoledì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Giovedì</dt><dd>chiuso</dd><dt>Venerdì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Sabato</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì e Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 33,
+            "title": "La Casa del Senza Glutine",
+            "location": "Via Macra, 43<br>12038 Savigliano (CN)</br>",
+            "latitude": 44.6450417, 
+            "longitude":  7.6517425,
+            "heading": 128,
+            "telefono": " 0172 22392",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Martedì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Mercoledì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Giovedì</dt><dd>chiuso</dd><dt>Venerdì</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Sabato</dt><dd>9:00-12:30 16:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì e Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 34,
+            "title": "Farmacia Internazionale",
+            "location": "Corso Langhe, 8/d<br>12051 Alba (CN)</br>",
+            "latitude": 44.6943509, 
+            "longitude":  8.0340731,
+            "heading": 256,
+            "telefono": " 0173 440370",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-19:30</dd><dt>Martedì</dt><dd>8:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-19:30</dd><dt>Giovedì</dt><dd>8:30-19:30</dd><dt>Venerdì</dt><dd>8:30-19:30</dd><dt>Sabato</dt><dd>8:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 35,
+            "title": "Farmacia Corso Savona",
+            "location": "Corso Savona, 161</br>14100 Asti (AT)</br>",
+            "latitude": 44.8911093, 
+            "longitude":  8.2107258,
+            "heading": 315,
+            "telefono": " 0141 530263",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Martedì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Mercoledì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Giovedì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Venerdì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Sabato</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Martedì e Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 36,
+            "title": "Farmacia Maggiora",
+            "location": "Corso Torino, 91<br>14100 Asti (AT)</br>",
+            "latitude": 44.9018049, 
+            "longitude":  8.1914892,
+            "heading": 353,
+            "telefono": " 0141 410909",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:00-13:00 15:00-20:00</dd><dt>Martedì</dt><dd>8:00-13:00 15:00-20:00</dd><dt>Mercoledì</dt><dd>8:00-13:00 15:00-20:00</dd><dt>Giovedì</dt><dd>8:00-13:00 15:00-20:00</dd><dt>Venerdì</dt><dd>8:00-13:00 15:00-20:00</dd><dt>Sabato</dt><dd>8:00-13:00 15:00-20:00</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Martedì e Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 37,
+            "title": "Farmacia Liprandi",
+            "location": "Corso Vittorio Alfieri, 424<br>14100 Asti (AT)</br>",
+            "latitude": 44.8986394, 
+            "longitude":  8.1960421,
+            "heading": 189,
+            "telefono": " 0141 592821",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Martedì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Mercoledì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Giovedì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Venerdì</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Sabato</dt><dd>8:30-12:30 15:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Martedì e Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 38,
+            "title": "Farmacia Ferraris",
+            "location": "Corso Roma, 76<br>15121 Alessandria (AL)</br>",
+            "latitude": 44.9115338, 
+            "longitude":  8.6127054,
+            "heading": 149,
+            "telefono": " 0131 251032",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15:00-19:45</dd><dt>Martedì</dt><dd>8:30-12:45 15:00-19:45</dd><dt>Mercoledì</dt><dd>8:30-12:45 15:00-19:45</dd><dt>Giovedì</dt><dd>8:30-12:45 15:00-19:45</dd><dt>Venerdì</dt><dd>8:30-12:45 15:00-19:45</dd><dt>Sabato</dt><dd>8:30-12:45 15:00-19:45</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 39,
+            "title": "Zero Rinunce",
+            "location": "Corso Acqui, 100<br>15121 Alessandria (AL)</br>",
+            "latitude": 44.9003587, 
+            "longitude":  8.6001843,
+            "heading": 128,
+            "telefono": " 0131 483152",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-12:30 15:30-19:30</dd><dt>Martedì</dt><dd>8:30-12:30 15:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-12:30 15:30-19:30</dd><dt>Giovedì</dt><dd>8:30-12:30 15:30-19:30</dd><dt>Venerdì</dt><dd>8:30-12:30 15:30-19:30</dd><dt>Sabato</dt><dd>8:30-12:30 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 39,
+            "title": "La salute vien mangiando",
+            "location": "Via Facino Cane 21/A<br>15033 Casale Monferrato (AL)</br>",
+            "latitude": 45.1358888, 
+            "longitude":  8.4571894,
+            "heading": 168,
+            "telefono": " 0142 540296",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>15:30-19:30</dd><dt>Martedì</dt><dd>9:30-12:30 15:30-19:30</dd><dt>Mercoledì</dt><dd>9:30-12:30 15:30-19:30</dd><dt>Giovedì</dt><dd>9:30-12:30 15:30-19:30</dd><dt>Venerdì</dt><dd>9:30-12:30 15:30-19:30</dd><dt>Sabato</dt><dd>9:30-12:30 15:30-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Giovedì",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":

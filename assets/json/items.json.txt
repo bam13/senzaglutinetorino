@@ -439,13 +439,13 @@
         },
          {
             "id": 25,
-            "title": "Naturalmente... da Donatella",
-            "location": "Via Martiri della Libertà, 67<br>10099 San Mauro Torinese (TO)</br>",
-            "latitude": 45.1002438, 
-            "longitude":  7.7636449,
-            "heading": 346,
-            "telefono": " 011 5843 486",
-             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>Chiuso</dd><dt>Martedì</dt><dd>8:00-19:30</dd><dt>Mercoledì</dt><dd>8:00-19:30</dd><dt>Giovedì</dt><dd>8:00-19:30</dd><dt>Venerdì</dt><dd>8:00-19:30</dd><dt>Sabato</dt><dd>8:30-14:00</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
+            "title": "Farmacia Nuova",
+            "location": "Via Giovanni XXIII, 70<br>10064 Pinerolo (TO)</br>",
+            "latitude": 44.8936428, 
+            "longitude":  7.3440374,
+            "heading": 126,
+            "telefono": " 0121 377297",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-13:00 / 15:00-19:30</dd><dt>Martedì</dt><dd>8:30-13:00 / 15:00-19:30</dd><dt>Mercoledì</dt><dd>8:30-13:00 / 15:00-19:30</dd><dt>Giovedì</dt><dd>8:30-13:00 / 15:00-19:30</dd><dt>Venerdì</dt><dd>8:30-13:00 / 15:00-19:30</dd><dt>Sabato</dt><dd>8:30-13:00 / 15:00-19:30</dd><dt>Domenica</dt><dd>Chiuso</dd></dl>",
             "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Venerdì",
@@ -734,6 +734,82 @@
             "ritiro": "377 9790627",
             "buoni": "SI",
             "consegna": "Giovedì",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 40,
+            "title": "Farmacia dell'Ariotta",
+            "location": "Piazzale Giuseppe Fortina, 10<br>28100 Novara (NO)</br>",
+            "latitude": 45.4517995, 
+            "longitude":  8.6498594,
+            "heading": 140,
+            "telefono": " 0321 695564",
+            "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-19:30</dd><dt>Martedì</dt><dd>8:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-19:30</dd><dt>Giovedì</dt><dd>8:30-19:30</dd><dt>Venerdì</dt><dd>8:30-19:30</dd><dt>Sabato</dt><dd>9:00-12:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì e Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 41,
+            "title": "Farmacia Fedele",
+            "location": "Via 23 Marzo 1849, 20<br>28100 Novara (NO)</br>",
+            "latitude": 45.4409033, 
+            "longitude":  8.6237866,
+            "heading": 233,
+            "telefono": " 0321 620280",
+             "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-13:00 / 14:30-20:00</dd><dt>Martedì</dt><dd>8:30-13:00 / 14:30-20:00</dd><dt>Mercoledì</dt><dd>8:30-13:00 / 14:30-20:00</dd><dt>Giovedì</dt><dd>8:30-13:00 / 14:30-20:00</dd><dt>Venerdì</dt><dd>8:30-13:00 / 14:30-20:00</dd><dt>Sabato</dt><dd>8:30-13:00</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì e Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 42,
+            "title": "Farmacia Nigri",
+            "location": "Corso Risorgimento, 33<br>28100 Novara (NO)</br>",
+            "latitude": 45.4556101, 
+            "longitude":  8.6175826,
+            "heading": 349,
+            "telefono": " 0321 477767",
+            "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-19:30</dd><dt>Martedì</dt><dd>8:30-19:30</dd><dt>Mercoledì</dt><dd>8:30-19:30</dd><dt>Giovedì</dt><dd>8:30-19:30</dd><dt>Venerdì</dt><dd>8:30-19:30</dd><dt>Sabato</dt><dd>8:30-12:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì e Sabato",
+            "type":"",
+            "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
+            "gallery":
+                [
+                     "assets/img/foto-negozio-segnaposto.png" 
+               ]
+        },
+         {
+            "id": 43,
+            "title": "Non Solo Celiachia",
+            "location": "Corso Amedeo de Rege, 78<br>13100 Vercelli (VC)</br>",
+            "latitude": 45.3188702, 
+            "longitude":  8.4292527,
+            "heading": 180,
+            "telefono": " 0161 605789",
+            "orari":"<dl class=\"lines\"><dt>Lunedì</dt><dd>8:30-13:00 / 15:00-20:00</dd><dt>Martedì</dt><dd>8:30-13:00 / 15:00-20:00</dd><dt>Mercoledì</dt><dd>8:30-13:00 / 15:00-20:00</dd><dt>Giovedì</dt><dd>8:30-13:00 / 15:00-20:00</dd><dt>Venerdì</dt><dd>8:30-13:00 / 15:00-20:00</dd><dt>Sabato</dt><dd>8:30-13:00 / 15:00-19:30</dd><dt>Domenica</dt><dd>chiuso</dd></dl>",
+            "ritiro": "377 9790627",
+            "buoni": "SI",
+            "consegna": "Mercoledì e Sabato",
             "type":"",
             "type_icon": "assets/icons/store/apparel/pane-senza-glutine.png",
             "gallery":

@@ -40,7 +40,6 @@
                  '</h2>' +
                     '<div class="meta">' +
                         '<p><i class="fa fa-map-marker"></i>' + location +  '</p>' +
-                        '<p class="underline"><i class="fa fa-phone"></i><a href="tel:377 9790627"> PRENOTAZIONI: ' + ritiro +  '</a></p>' +
                         '<p><i class="fa fa-credit-card"></i> ACCETTA BUONI ASL: ' + buoni +  '</p>' +
                         '<p><i class="fa fa-clock-o"></i> ORARI DI APERTURA</p>' +
                         '<article class="tab-orari">' + orari +  '</article>' +
